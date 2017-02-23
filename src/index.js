@@ -1,5 +1,5 @@
 "use strict";
-var APP_ID = undefined;  // TODO replace with your app ID (OPTIONAL).
+var APP_ID = "amzn1.ask.skill.cab6bd5f-2fd7-4b49-bf0e-cd2f61fdf1c9";  // TODO replace with your app ID (OPTIONAL).
 
 var ANSWER_COUNT = 4; // The number of possible answers per trivia question.
 var GAME_LENGTH = 5;  // The number of questions per trivia game.
@@ -18,7 +18,7 @@ var languageString = {
     "en-GB": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_GB"],
-            "GAME_NAME" : "British Reindeer Trivia", // Be sure to change this for your skill.
+            "GAME_NAME" : "Reindeer Trivia", // Be sure to change this for your skill.
             "HELP_MESSAGE": "I will ask you %s multiple choice questions. Respond with the number of the answer. " +
             "For example, say one, two, three, or four. To start a new game at any time, say, start game. ",
             "REPEAT_QUESTION_MESSAGE": "To repeat the last question, say, repeat. ",
@@ -45,7 +45,7 @@ var languageString = {
     "en-US": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
-            "GAME_NAME" : "American Reindeer Trivia", // Be sure to change this for your skill.
+            "GAME_NAME" : "Reindeer Trivia", // Be sure to change this for your skill.
             "HELP_MESSAGE": "I will ask you %s multiple choice questions. Respond with the number of the answer. " +
             "For example, say one, two, three, or four. To start a new game at any time, say, start game. ",
             "REPEAT_QUESTION_MESSAGE": "To repeat the last question, say, repeat. ",

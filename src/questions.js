@@ -252,6 +252,59 @@ module.exports = {
                 "52 miles per hour",
                 "41 miles per hour"
             ]
+        },
+        {
+            "In which countries are reindeer not found?": [
+                "Estonia",
+                "Russia",
+                "Finland",
+                "Canada",
+                "Greenland",
+                "Norway"
+            ]
+        },
+        {
+            "What other name are Reindeer sometimes also called": [
+                "Caribou",
+                "Donkey Deer",
+                "Elk",
+                "Junior Moose",
+                "Snow Donkeys"
+            ]
+        },
+        {
+            "Do reindeer antlers fall off fall off naturally?": [
+                "Yes",
+                "No"
+            ]
+        }, 
+        {
+            "Male reindeer can end up mating with how many females during a mating period?": [
+                "Fifteen to Twenty",
+                "Two to Four",
+                "One",
+                "Zero",
+                "Five to Nine",
+                "Ten to Fourteen"
+            ]
+        },
+        {
+            "During spring migrations, smaller herds will group together to form larger herds of how many reindeer?": [
+                "Fifty to Five Hundred Thousand",
+                "One Hundred to Five Hundred",
+                "Five Hundred to One Thousand",
+                "One Thousand to Ten Thousand",
+                "Ten Thousand to Fifty Thousand"
+            ]
+        },
+        {
+            "Historically, wild reindeer have were found as far south as which present day country or state?": [
+                "Tennessee",
+                "Libya",
+                "India",
+                "Mexico",
+                "Tanzania"
+            ] 
         }
     ],
     "QUESTIONS_EN_US" : [
@@ -501,6 +554,60 @@ module.exports = {
                 "52 miles per hour",
                 "41 miles per hour"
             ]
+        }, 
+        {
+            "In which countries are reindeer not found?": [
+                "Estonia",
+                "Russia",
+                "Finland",
+                "Canada",
+                "Greenland",
+                "Norway"
+            ]
+        }, 
+        {
+            "What other name are Reindeer sometimes also called": [
+                "Caribou",
+                "Donkey Deer",
+                "Elk",
+                "Junior Moose",
+                "Snow Donkeys"
+            ]
+        },
+        {
+            "Do reindeer antlers fall off fall off naturally?": [
+                "Yes",
+                "No"
+            ]
+        }, 
+        {
+            "Male reindeer can end up mating with how many females during a mating period?":
+            [
+                "Fifteen to Twenty",
+                "Two to Four",
+                "One",
+                "Zero",
+                "Five to Nine",
+                "Ten to Fourteen"
+            ]
+        },
+        {
+            "During spring migrations, smaller herds will group together to form larger herds of how many reindeer?": [
+                "Fifty to Five Hundred Thousand",
+                "One Hundred to Five Hundred",
+                "Five Hundred to One Thousand",
+                "One Thousand to Ten Thousand",
+                "Ten Thousand to Fifty Thousand"
+            ]
+        },
+        {
+            "Historically, wild reindeer have were found as far south as which present day country or state?": [
+                "Tennessee",
+                "Libya",
+                "India",
+                "Mexico",
+                "Tanzania"
+            ] 
         }
     ],
     "QUESTIONS_DE_DE" : [
